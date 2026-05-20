@@ -1493,7 +1493,7 @@
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MARKETING_VERSION = 6.0.3;
 				OTHER_SWIFT_FLAGS = "$(inherited) -DUSE_CRASHLYTICS";
-				PRODUCT_BUNDLE_IDENTIFIER = com.acceleratenetworks.mobile.msgNotificationService;
+				PRODUCT_BUNDLE_IDENTIFIER = net.furrytel.dialer.msgNotificationService;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SDKROOT = iphoneos;
@@ -1535,7 +1535,7 @@
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MARKETING_VERSION = 6.0.3;
 				OTHER_SWIFT_FLAGS = "$(inherited) -DUSE_CRASHLYTICS";
-				PRODUCT_BUNDLE_IDENTIFIER = com.acceleratenetworks.mobile.msgNotificationService;
+				PRODUCT_BUNDLE_IDENTIFIER = net.furrytel.dialer.msgNotificationService;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SDKROOT = iphoneos;
@@ -1718,7 +1718,7 @@
 				MACOSX_DEPLOYMENT_TARGET = 13.3;
 				MARKETING_VERSION = 6.0.3;
 				OTHER_SWIFT_FLAGS = "$(inherited) -DUSE_CRASHLYTICS";
-				PRODUCT_BUNDLE_IDENTIFIER = com.acceleratenetworks.mobile;
+				PRODUCT_BUNDLE_IDENTIFIER = net.furrytel.dialer;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = iphoneos;
 				SUPPORTED_PLATFORMS = "iphonesimulator iphoneos";
@@ -1780,7 +1780,7 @@
 				MACOSX_DEPLOYMENT_TARGET = 13.3;
 				MARKETING_VERSION = 6.0.3;
 				OTHER_SWIFT_FLAGS = "$(inherited) -DUSE_CRASHLYTICS";
-				PRODUCT_BUNDLE_IDENTIFIER = com.acceleratenetworks.mobile;
+				PRODUCT_BUNDLE_IDENTIFIER = net.furrytel.dialer;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = iphoneos;
 				SUPPORTED_PLATFORMS = "iphonesimulator iphoneos";
@@ -1813,7 +1813,7 @@
 				);
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MARKETING_VERSION = 6.0.3;
-				PRODUCT_BUNDLE_IDENTIFIER = com.acceleratenetworks.mobile.linphoneExtension;
+				PRODUCT_BUNDLE_IDENTIFIER = net.furrytel.dialer.linphoneExtension;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
@@ -1847,7 +1847,7 @@
 				);
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MARKETING_VERSION = 6.0.3;
-				PRODUCT_BUNDLE_IDENTIFIER = com.acceleratenetworks.mobile.linphoneExtension;
+				PRODUCT_BUNDLE_IDENTIFIER = net.furrytel.dialer.linphoneExtension;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
