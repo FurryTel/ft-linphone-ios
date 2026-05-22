@@ -115,8 +115,6 @@
 			</array>
 		</dict>
 	</array>
-	<key>NSCalendarsWriteOnlyAccessUsageDescription</key>
-	<string></string>
 	<key>NSSupportsSuddenTermination</key>
 	<false/>
 	<key>UIAppFonts</key>
