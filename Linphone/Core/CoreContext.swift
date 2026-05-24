@@ -151,7 +151,7 @@ class CoreContext: ObservableObject {
 			let appName = Bundle.main.infoDictionary?["CFBundleName"] as? String
 			let version = Bundle.main.infoDictionary?["CFBundleShortVersionString"] as? String
 			
-			let userAgent = "Accelerate NetworksiOS/\(version ?? "6.0.0") (\(UIDevice.current.localizedModel.replacingOccurrences(of: "'", with: ""))) LinphoneSDK"
+			let userAgent = "FTDialer_iOS/\(version ?? "6.0.0") (\(UIDevice.current.localizedModel.replacingOccurrences(of: "'", with: ""))) LinphoneSDK"
 			self.mCore.setUserAgent(name: userAgent, version: self.coreVersion)
 			self.mCore.videoCaptureEnabled = true
 			self.mCore.videoDisplayEnabled = true
